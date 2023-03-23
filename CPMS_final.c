@@ -1,11 +1,3 @@
-// SDF Group Prject
-//     Members
-// ---------------
-//   Mukund Pandey
-//  Saurabh  Pandey
-//     Kanishka 
-
-
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
